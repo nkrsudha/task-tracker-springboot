@@ -68,7 +68,7 @@ public class Task {
     {
         this.status = status;
     }
-    public LocalDate getLocalDate()
+    public LocalDate getDueDate()
     {
         return dueDate;
     }
